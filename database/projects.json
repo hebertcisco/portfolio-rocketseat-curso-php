@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Viva Bank",
+        "description": "Desenvolvimento e Implementação do App Viva Bank",
+        "image": "Desenvolvimento e Implementação do App Viva Bank.png",
+        "link": "https://apps.apple.com/br/app/vivabank/id6670454511",
+        "tags": ["react-native", "javascript", "laravel"],
+        "date": "2024-09-01"
+    },
+    {
+        "name": "Tradio Bank",
+        "description": "Desenvolvimento e implementação app Tradio Bank",
+        "image": "Desenvolvimento e implementação app Tradio Bank.png",
+        "link": "https://apps.apple.com/br/app/tradio-bank/id6468881763",
+        "tags": ["react-native", "javascript", "laravel"],
+        "date": "2023-12-01"
+    },
+    {
+        "name": "Painel Web do Tradio Bank",
+        "description": "Implementações e Melhorias Contínuas no Painel Web do Tradio Bank",
+        "image": "Implementações e Melhorias Contínuas no Painel Web do Tradio Bank.png",
+        "link": "https://tradiobank.com.br",
+        "tags": ["php", "javascript", "laravel", "react"],
+        "date": "2023-03-01"
+    },
+    {
+        "name": "Imaculada Conceição",
+        "description": "Redesenho e Implementação do App da Imaculada Conceição",
+        "image": "Redesenho e Implementação do App Milícia da Imaculada.png",
+        "link": "https://play.google.com/store/apps/details?id=br.com.caikron.miliciadaimaculada&hl=pt-PT",
+        "tags": ["react-native", "javascript", "typescript"],
+        "date": "2023-02-01"
+    },
+    {
+        "name": "Nagro Crédito Agro",
+        "description": "Desenvolvedor de Software na Nagro Crédito Agro",
+        "image": "Desenvolvedor de Software na Nagro Crédito Agro.png",
+        "link": "https://nagro.com.br",
+        "tags": ["javascript", "nodejs", "typescript", "python"],
+        "date": "2022-09-01"
+    },
+    {
+        "name": "AYT1.DEV",
+        "description": "Desenvolvedor de Software Backend na AYT1.DEV",
+        "image": "Desenvolvedor de Software Backend na AYT1.DEV.png",
+        "link": "https://ayt1.dev",
+        "tags": ["javascript", "nodejs", "typescript", "rabbitmq"],
+        "date": "2021-12-01"
+    }
+]
